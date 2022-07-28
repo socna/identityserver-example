@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Data/Work/outsource/indentity_server/webMVC/webMVC.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Data/Work/outsource/indentity_server/webMVC/webMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Data/Work/outsource/indentity_server/webMVC/webMVC.csproj",
+        "projectName": "webMVC",
+        "projectPath": "/Volumes/Data/Work/outsource/indentity_server/webMVC/webMVC.csproj",
+        "packagesPath": "/Users/hoangchau/.nuget/packages/",
+        "outputPath": "/Volumes/Data/Work/outsource/indentity_server/webMVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hoangchau/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.421/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

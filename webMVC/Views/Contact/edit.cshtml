@@ -1,0 +1,38 @@
+
+
+<form method="post" action="/Contact/Update">
+    <div class="form-group row">
+        <label class="col-sm-2 ">Id</label>
+        <input name="id" value="@ViewBag.Info.Id" type="number" class="form-control col-sm-10 " id="InputID" placeholder="Id">
+        <!--<small  class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+    </div>
+
+     <div class="form-group row">
+        <label class="col-sm-2 " >First Name</label>
+        <input name="firstname" value="@ViewBag.Info.FirstName" type="text" class="form-control col-sm-10"  placeholder="First Name">
+        <!--<small  class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2">Last Name</label>
+        <input name="lastname" value="@ViewBag.Info.LastName"  type="text" class="form-control col-sm-10"  placeholder="Last Name">
+        <!--<small  class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2 ">Email</label>
+        <input name="email" value="@ViewBag.Info.Email"  type="email" class="form-control col-sm-10"  placeholder="Email">
+        <small  class="form-text text-muted offset-2">We'll never share your email with anyone else.</small>
+    </div>
+
+    <div class="form-group row">
+        <label class="col-sm-2">Mobile</label>
+        <input name="mobile" value="@ViewBag.Info.Mobile"  type="number" class="form-control col-sm-10"  placeholder="Mobile">
+        <small  class="form-text text-muted offset-2">We'll never share your mobile with anyone else.</small>
+    </div>
+
+    <div class="form-group row">
+        <button type="submit" class="btn btn-primary offset-2">Submit</button>
+    </div>
+    
+</form>

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeBMlnhE9EcTuICIWYO4Yi9ADcKapy7EHD9oKJMg7yWcBp/D9zEY8UojIEgwMrUzDGmAEzGwLdc1HeMpT7Q/xg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Data/Work/outsource/indentity_server/ids/ids.csproj",
+  "expectedPackageFiles": [
+    "/Users/hoangchau/.nuget/packages/certificatemanager/1.0.3/certificatemanager.1.0.3.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/identitymodel/4.4.0/identitymodel.4.4.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/identityserver4/4.1.2/identityserver4.4.1.2.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/identityserver4.storage/4.1.2/identityserver4.storage.4.1.2.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/3.1.0/microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.1/microsoft.extensions.dependencyinjection.3.1.1.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.1/microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.6.0/microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.identitymodel.logging/5.6.0/microsoft.identitymodel.logging.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.identitymodel.protocols/5.6.0/microsoft.identitymodel.protocols.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/5.6.0/microsoft.identitymodel.protocols.openidconnect.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/microsoft.identitymodel.tokens/5.6.0/microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/system.identitymodel.tokens.jwt/5.6.0/system.identitymodel.tokens.jwt.5.6.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/system.security.cryptography.cng/4.7.0/system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/system.security.cryptography.pkcs/4.7.0/system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "/Users/hoangchau/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
